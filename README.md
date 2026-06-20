@@ -55,6 +55,7 @@ Static assets (libraries/plugins/web-fonts) required to run [_Chirpy_][chirpy]-b
 | [Day.js][dayjs]                                          | `1.11.20` |
 | [GLightbox][glightbox]                                   |   `3.3.1` |
 | [Loading-attribute-polyfill][loading-attribute-polyfill] |   `2.1.1` |
+| [MathJax][mathjax]                                       |   `4.1.2` |
 | [Mermaid][mermaid]                                       | `11.13.0` |
 | [Simple-Jekyll-Search][simple-jekyll-search]             |  `1.10.0` |
 | [Tocbot][tocbot]                                         |  `4.36.4` |
@@ -68,6 +69,7 @@ Static assets (libraries/plugins/web-fonts) required to run [_Chirpy_][chirpy]-b
 [dayjs]: https://www.jsdelivr.com/package/npm/dayjs
 [glightbox]: https://www.jsdelivr.com/package/npm/glightbox
 [loading-attribute-polyfill]: https://www.jsdelivr.com/package/npm/loading-attribute-polyfill
+[mathjax]: https://www.jsdelivr.com/package/npm/mathjax
 [mermaid]: https://www.jsdelivr.com/package/npm/mermaid
 [simple-jekyll-search]: https://www.jsdelivr.com/package/npm/simple-jekyll-search
 [tocbot]: https://www.jsdelivr.com/package/npm/tocbot
